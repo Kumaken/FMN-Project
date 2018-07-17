@@ -29,6 +29,7 @@ You don't to install lol. Just download the HTML and open it. It'll link you to 
        correct consecutively (Streaks).
 4. ???
 5. You either ran out of time or got stressed out.
+6. Screenshot your Score pts. You have now earned the bragging rights.
 
 ------PLOT------- (WARNING, IT SUCKS)
 
