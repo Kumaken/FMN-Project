@@ -1,5 +1,15 @@
 # FMN-Project
+------ABOUT------
 Forget Me Not is a simple game that is NOT FUN and designed for PRIVATE USE only. Its gameplay only revolves around looking at photos and awkwardly guessing their nicknames. It has a plot, but not yet and probably would never be implemented ingame. Who would want even want to read such a suckish story penned by such an untalented amateur writer anyway? To make this game more bearable, the creator decided to add some style into the game.
+
+------ FEATURES ------
+1. Randomized Question to make your life harder.
+2. Complicated ingame variables to make the creator look smarter than he actually is.
+3. Cool chill music discovery that you sought for since at your mom's womb.
+4. Cool stylish UI ripped from P5 spritesheet.
+5. Testing your memorization ability and get you more acquainted with your UNIX peers.
+6. Suckish plot written by incompetent hooman.
+7. The realization that even with all these features, this game ain't fun.
 
 ------ GAME MECHANICS & HOW TO PLAY -------
 1. Stare into the faces.
