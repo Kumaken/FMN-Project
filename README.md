@@ -27,7 +27,7 @@ Forget Me Not is a simple game that is NOT FUN and designed for PRIVATE USE only
 
 If somehow you find :
 1. Somebody got left out somehow.
-2. I got nickname wrong.
+2. I got the person's nickname wrong.
 3. A bug.
 Please let me know. Thank you and apologies.
 
