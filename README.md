@@ -1,6 +1,6 @@
 # FMN-Project
 
-![Screenshot]\(https://imgur.com/a/TZIreS2)
+![Screenshot]\(https://imgur.com/YOha2Zg)
 
 ------ABOUT------
 Forget Me Not is a simple game that is NOT FUN and designed for PRIVATE USE only. Its gameplay only revolves around looking at photos and awkwardly guessing their nicknames. It has a plot, but not yet and probably would never be implemented ingame. Who would want even want to read such a suckish story penned by such an untalented amateur writer anyway? To make this game more bearable, the creator decided to add some style into the game.
