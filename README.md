@@ -11,6 +11,9 @@ Forget Me Not is a simple game that is NOT FUN and designed for PRIVATE USE only
 6. Suckish plot written by incompetent hooman.
 7. The realization that even with all these features, this game ain't fun.
 
+------ INSTALLATION ------
+You don't to install lol. Just download the HTML and open it. It'll link you to the game's page on scratch. The reason I don't upload my source file is because it exceeded 25mb GitHub file limit. Idk, maybe there's a workaround or something, but I'm a GitHub noob ok?
+
 ------ GAME MECHANICS & HOW TO PLAY -------
 1. Stare into the faces.
 2. Guess their nicknames. (WITH CAPITAL LETTERS)
