@@ -18,11 +18,13 @@ Forget Me Not is a simple game that is NOT FUN and designed for PRIVATE USE only
 5. You either ran out of time or got stressed out.
 
 ------PLOT------- (WARNING, IT SUCKS)
-You play as a renowned genius professor in researching human consciousness. Unfortunately you are somehow killed in a huge incident resulting not only your death but everyone inside your isolated research facility. 200 years later, somebody else has finally managed to do what you couldn't, to preserve lives as digital data, able to be stored and transferred by digital means, allowing people to live forever.
 
-However, death comes once again in form of AIDA (Artificially Intelligent Data Anomaly), an impossibly virulent and resilient virus,  corrupting and erasing consciousness from every human data it touches. Two unknown scientists managed to recover a fragment of your consciousness from your brain, preserved through cryogenic stasis. They suspect the AIDA outbreak stemmed from the incident 200 years ago. Now they dive into your memory data and demand you to recall all your remaining knowledge of your test subjects, hoping to unravel the truth about the AIDA and the incident. Was AIDA truly artificial? Or was it alive, a work of human possessing technology far too advanced for their time?
+    You play as a renowned genius professor in researching human consciousness. Unfortunately you are somehow killed in a huge incident resulting not only your death but everyone inside your isolated research facility. 200 years later, somebody else has finally managed to do what you couldn't, to preserve lives as digital data, able to be stored and transferred by digital means, allowing people to live forever.
+
+    However, death comes once again in form of AIDA (Artificially Intelligent Data Anomaly), an impossibly virulent and resilient virus,  corrupting and erasing consciousness from every human data it touches. Two unknown scientists managed to recover a fragment of your consciousness from your brain, preserved through cryogenic stasis. They suspect the AIDA outbreak stemmed from the incident 200 years ago. Now they dive into your memory data and demand you to recall all your remaining knowledge of your test subjects, hoping to unravel the truth about the AIDA and the incident. Was AIDA truly artificial? Or was it alive, a work of human possessing technology far too advanced for their time?
 
 ------ NOTES ------
+
 If somehow you find :
 1.Somebody got left out somehow
 2. I got nickname wrong
